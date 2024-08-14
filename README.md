@@ -1,5 +1,3 @@
-## -----------------------------------------
-
----- ![](https://github.com/KimiyaPoozesh/KimiyaPoozesh/blob/main/bat.gif)  ----
+ ![](https://github.com/KimiyaPoozesh/KimiyaPoozesh/blob/main/bat.gif) 
 
 
