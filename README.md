@@ -27,8 +27,8 @@
 
 Title | Checkout
 --- | ---
-VR Puzzle Game	 |  <a href="https://github.com/KimiyaPoozesh/UnlockMe">GitHub</a>
-Game | <a href="https://github.com/KimiyaPoozesh/VRPuzzleGame">GitHub</a>
+VR Space Game	 |  <a href="https://github.com/KimiyaPoozesh/XR-V3.0">GitHub</a>
+Decay Platformer game | <a href="https://github.com/Brain-Damage-Games/Second-Project">GitHub</a>
 
 
 </div>
