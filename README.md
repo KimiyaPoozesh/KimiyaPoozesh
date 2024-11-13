@@ -1,5 +1,7 @@
  ![](https://github.com/KimiyaPoozesh/KimiyaPoozesh/blob/main/bat.gif) 
-
+ ![](https://github.com/KimiyaPoozesh/KimiyaPoozesh/blob/main/bat.gif) 
+  ![](https://github.com/KimiyaPoozesh/KimiyaPoozesh/blob/main/bat.gif) 
+   ![](https://github.com/KimiyaPoozesh/KimiyaPoozesh/blob/main/bat.gif) 
 
 <div align="center">
 
@@ -7,13 +9,11 @@
     <img src="https://img.shields.io/badge/KimiyaPoozesh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/i_kimiy_a" target="_blank">
-    <img src="https://img.shields.io/badge/KimiyaPoozesh%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
+
 
 </div>
 
-* 🔭 Currently working as Unity Game Developer @ Manshour
+* 🔭 Currently working as Unity Developer @ [Manshour](https://manshourfanavari.com/en)
 * 🎮 Specializing in VR/AR and game development for immersive experiences
 * 💡 Passionate about creating innovative gameplay mechanics and engaging environments
 
